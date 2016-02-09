@@ -1,0 +1,33 @@
+body{
+  background-image: url("../img/best_muscle_car_wallpaper_hd_9.jpg");
+
+  #footer{
+    text-align: center;
+    width: 90%;
+    margin-top: 30%;
+    color: #2aabd2;
+    a{
+      color: #2aabd2;
+      font-size: 20px;
+    }
+  }
+  form{
+    background-color: #D9EDF7;
+    padding: 3%;
+    border-radius : 5%;
+  }
+
+  table{
+    th{
+      text-align: center;
+    }
+    a{
+      .green{
+        color: green;
+      }
+      .red{
+        color: red;
+      }
+    }
+  }
+}
